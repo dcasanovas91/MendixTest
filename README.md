@@ -1,2 +1,2 @@
 # MendixTest
-Repositori de prova per a una app creada amb Mendix.
+Repositori de prova per a una app creada amb Mendix...
